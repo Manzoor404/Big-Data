@@ -45,7 +45,7 @@ object etl_script {
       // Write highSalaryDF to HDFS
       highSalaryDF.write.mode("overwrite").csv("hdfs://localhost:9000/test/highSalary")
 
-      println("ETL Job Completed")
+      println("ETL Job Completed.")
 
     }
 }
