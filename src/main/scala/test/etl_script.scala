@@ -13,8 +13,8 @@ object etl_script {
         .getOrCreate()
       Logger.getLogger("org").setLevel(Level.ERROR)
 
-      val employeesDF = spark.read.option("header", "true").csv("hdfs://localhost:9000/test/employees.csv")
-      val departmentsDF = spark.read.option("header", "true").csv("hdfs://localhost:9000/test/departments.csv")
+      val employeesDF = spark.read.option("header", "true").csv("hdfs://localhost:9000/raw_data/test/employees.csv")
+      val departmentsDF = spark.read.option("header", "true").csv("hdfs://localhost:9000/raw_data/test/departments.csv")
       employeesDF.printSchema()
 
       // Renaming the column
@@ -40,10 +40,10 @@ object etl_script {
       println(s"Number of employees with salary greater than 5000: $count")
 
       // Write departmentSalaryDF to HDFS
-      departmentWiseSalary.write.mode("overwrite").csv("hdfs://localhost:9000/test/departmentWiseSalary")
+      departmentWiseSalary.write.mode("overwrite").csv("hdfs://localhost:9000/raw_data/test/departmentWiseSalary")
 
       // Write highSalaryDF to HDFS
-      highSalaryDF.write.mode("overwrite").csv("hdfs://localhost:9000/test/highSalary")
+      highSalaryDF.write.mode("overwrite").csv("hdfs://localhost:9000/raw_data/test/highSalary")
 
       println("ETL Job Completed.")
 

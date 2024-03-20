@@ -67,7 +67,7 @@ object WebAPI_ETL {
 
 
     // Writing the data to hdfs as parquet
-     flatstruct.write.mode("overwrite").parquet("hdfs://localhost:9000/test/WebAPI.parquet")
+     //flatstruct.write.mode("overwrite").parquet("hdfs://localhost:9000/test/WebAPI.parquet")
     println("---ETL Job Completed---")
 
 

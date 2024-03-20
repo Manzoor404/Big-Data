@@ -22,3 +22,7 @@
 [debug] Evaluating tasks: Global / dumpStructure
 [warn] sbt 0.13 shell syntax is deprecated; use slash syntax instead: Global / dumpStructure
 [debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] jsonRpcNotify: JsonRpcNotificationMessage(2.0, shutdown, [false,null])
+[debug] jsonRpcNotify: JsonRpcNotificationMessage(2.0, shutdown, [true,null])
+[debug] jsonRpcNotify: JsonRpcNotificationMessage(2.0, shutdown, [false,null])
+[debug] jsonRpcNotify: JsonRpcNotificationMessage(2.0, shutdown, [true,null])

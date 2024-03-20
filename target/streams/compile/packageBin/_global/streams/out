@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/syedmanzoor/IdeaProjects/untitled/target/scala-2.12/etl-practice_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	test[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/syedmanzoor/IdeaProjects/untitled/target/scala-2.12/classes/test[0m
+[0m[[0m[0mdebug[0m] [0m[0m	test/etl_script.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/syedmanzoor/IdeaProjects/untitled/target/scala-2.12/classes/test/etl_script.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	test/WebAPI_ETL.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/syedmanzoor/IdeaProjects/untitled/target/scala-2.12/classes/test/WebAPI_ETL.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	test/s3_hdfs_etl$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/syedmanzoor/IdeaProjects/untitled/target/scala-2.12/classes/test/s3_hdfs_etl$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	test/etl_script$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/syedmanzoor/IdeaProjects/untitled/target/scala-2.12/classes/test/etl_script$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	test/WebAPI_ETL$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/syedmanzoor/IdeaProjects/untitled/target/scala-2.12/classes/test/WebAPI_ETL$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	test/s3_hdfs_etl.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/syedmanzoor/IdeaProjects/untitled/target/scala-2.12/classes/test/s3_hdfs_etl.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

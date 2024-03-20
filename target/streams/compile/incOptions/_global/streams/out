@@ -1,2 +1,14 @@
 [0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/syedmanzoor/IdeaProjects/untitled/target/scala-2.12/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/syedmanzoor/IdeaProjects/untitled/target/scala-2.12/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	s3_hdfs_etl.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	etl_script.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WebAPI_ETL.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	s3_hdfs_etl$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WebAPI_ETL$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	etl_script$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/syedmanzoor/IdeaProjects/untitled/target/scala-2.12/classes.bak[0m

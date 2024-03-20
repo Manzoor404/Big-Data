@@ -1,0 +1,24 @@
+[debug] > Exec(;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/k1/7fzf0d750cv2l89qp73n4s440000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers, resolveSbtClassifiers, insertProjectTransitiveDependencies");apply -cp "/Users/syedmanzoor/Library/Application Support/JetBrains/IdeaIC2023.3/plugins/Scala/repo/org/jetbrains/scala/sbt-structure-extractor_2.12_1.3/2023.3.2/sbt-structure-extractor-2023.3.2.jar" org.jetbrains.sbt.CreateTasks;preferScala2;*/*:dumpStructure, Some(650d505f-2414-4262-82dc-68b19d57dc64), Some(CommandSource(console0)))
+[debug] > Exec(set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/k1/7fzf0d750cv2l89qp73n4s440000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers, resolveSbtClassifiers, insertProjectTransitiveDependencies"), None, Some(CommandSource(console0)))
+[info] Defining Global / sbtStructureOptions, Global / sbtStructureOutputFile and 1 others.
+[info] The new values will be used by cleanKeepGlobs
+[info] 	Run `last` for details.
+[debug] Defining 
+[debug] 	Global / sbtStructureOptions
+[debug] 	Global / sbtStructureOutputFile
+[debug] 	history
+[debug] 	shellPrompt
+[debug] 
+[debug] The new values will be used by 
+[debug] 	cleanKeepGlobs
+[info] Reapplying settings...
+[info] set current project to ETL Practice (in build file:/Users/syedmanzoor/IdeaProjects/untitled/)
+[debug] > Exec(apply -cp "/Users/syedmanzoor/Library/Application Support/JetBrains/IdeaIC2023.3/plugins/Scala/repo/org/jetbrains/scala/sbt-structure-extractor_2.12_1.3/2023.3.2/sbt-structure-extractor-2023.3.2.jar" org.jetbrains.sbt.CreateTasks, None, Some(CommandSource(console0)))
+[info] Applying State transformations org.jetbrains.sbt.CreateTasks from /Users/syedmanzoor/Library/Application Support/JetBrains/IdeaIC2023.3/plugins/Scala/repo/org/jetbrains/scala/sbt-structure-extractor_2.12_1.3/2023.3.2/sbt-structure-extractor-2023.3.2.jar
+[info] Reapplying settings...
+[info] set current project to ETL Practice (in build file:/Users/syedmanzoor/IdeaProjects/untitled/)
+[debug] > Exec(preferScala2, None, Some(CommandSource(console0)))
+[debug] > Exec(*/*:dumpStructure, None, Some(CommandSource(console0)))
+[debug] Evaluating tasks: Global / dumpStructure
+[warn] sbt 0.13 shell syntax is deprecated; use slash syntax instead: Global / dumpStructure
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
